@@ -1,4 +1,4 @@
-# Vagrant environment
+# Vagrant environments
 
 List of Vagrantfile used to initialize environments with Vagrant.
 
