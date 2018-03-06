@@ -7,7 +7,7 @@ sudo apt-get install -y libssl-dev libreadline-dev zlib1g-dev
 git clone https://github.com/rbenv/ruby-build.git /tmp/ruby-build && \
 cd /tmp/ruby-build && \
 PREFIX=/usr/local ./install.sh && \
-/usr/local/bin/ruby-build 2.3.1 /usr && \
+/usr/local/bin/ruby-build 2.5.0 /usr && \
 cd && \
 rm -rf /tmp/ruby-build && \
 
